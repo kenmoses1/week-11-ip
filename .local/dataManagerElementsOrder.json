@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "boolFileExists&Sequence_5",
+        "EditableText&Sequence_5",
+        "boolTicketCreated&Sequence_5",
+        "strContact&Sequence_7",
+        "strEmail&Sequence_7",
+        "strSubject&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SaaSAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "SaaSBrowser&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ContactName",
+        "Email",
+        "Subject",
+        "Successful"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
